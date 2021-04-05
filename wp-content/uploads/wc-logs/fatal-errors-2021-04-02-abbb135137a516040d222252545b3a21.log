@@ -1,0 +1,64 @@
+2021-04-02T07:26:34+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 171
+
+2021-04-02T07:26:56+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 171
+
+2021-04-02T07:27:15+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 171
+
+2021-04-02T07:29:21+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 171
+
+2021-04-02T07:33:37+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_gallery_image_ids() in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 49
+
+2021-04-02T07:34:28+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_gallery_image_ids() in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php:49
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 49
+
+2021-04-02T07:36:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_gallery_image_ids() in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php:47
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 47
+
+2021-04-02T07:36:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_gallery_image_ids() in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php:47
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 47
+
+2021-04-02T07:37:15+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 47
+
+2021-04-02T07:38:29+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php:48
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php(51): get_gallery_image_ids()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 48
+
+2021-04-02T07:39:42+00:00 CRITICAL Uncaught Error: Call to a member function get_prop() on string in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php:48
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php(51): get_gallery_image_ids()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 48
+
+2021-04-02T09:38:25+00:00 CRITICAL syntax error, unexpected '&&' (T_BOOLEAN_AND) in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\single-product.php on line 131
+
+2021-04-02T13:12:43+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\refresh\partials\partners.php on line 40
+

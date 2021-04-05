@@ -1,0 +1,123 @@
+.full-contact {
+	padding: 100px 0;
+}
+
+.full-contact h1 {
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+
+.contact-question {
+	background-color: white;
+	border-radius: 10px;
+	height: 100%;
+}
+
+.contact-question h3 {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 15px 0 20px 15px;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.contact-question-about {
+	padding: 20px 100px 50px 20px;
+}
+
+.contact-info {
+	width: 50%;
+}
+
+.contact-info li{
+	font-size: 18px;
+	padding: 10px 0;
+}
+
+.contact-follow {
+	margin-top: 100px;
+}
+
+.contact-follow h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.follow-icons {
+	width: 35%;
+	margin-top: 10px;
+}
+
+.follow-icons img {
+	width: 100%;
+}
+
+.leave-conract-head{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.leave-contact {
+	padding: 20px;
+}
+
+.contact-form-name {
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+.form-control {
+	border: none;
+	background-color: #eaeaea;
+	line-height: 2.5;
+}
+
+.form-button {
+	width: 100%;
+	line-height: 2.5;
+	font-size: 20px;
+	letter-spacing: 6px;
+}
+
+.note {
+	margin-top: 45px;
+}
+
+.faq {
+	padding-top: 70px;
+}
+
+.faq h2 {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+
+.faq-questions .accordion-item {
+	margin-bottom: 15px;
+	border-radius: 10px;
+}
+
+.accordion-item .accordion-button {
+	border-radius: 10px;
+}
+.accordion-button {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.accordion-button:not(.collapsed) {
+	color: black;
+	background-color: transparent;
+}
+
+.accordion-button:focus {
+	border-color: transparent;
+	box-shadow: none;
+}

@@ -1,0 +1,74 @@
+.getting-here {
+    width: 100%;
+    height: 214px;
+    position: relative;
+    display: flex;
+}
+
+.getting-here-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 10%;
+    top: 35%;
+    z-index: 2;
+}
+
+.getting-here h3 {
+    font-size: 10px;
+    font-weight: normal;
+    color: #F2F2F0;
+}
+
+.getting-here h1 {
+    font-size: 36px;
+    color: #F2F2F0;
+}
+
+.getting-here h2 {
+    font-size: 16px;
+    color: #F2F2F0;
+    font-weight: normal;
+    margin-top: 6px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #2B2428;
+    margin-bottom: 10px;
+}
+
+.transport {
+    margin-top: 63px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f2f2f0;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.transport ul {
+	list-style: inside;
+}
+
+.transport-service {
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.transport-service img {
+    width: 100%;
+    height: 350px;
+    border: 1px solid #707070;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.info-text a:hover {
+    color: #F7CB2D;
+}
+

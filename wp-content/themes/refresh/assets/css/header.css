@@ -1,0 +1,105 @@
+.navbar img {
+    max-height: 45px;
+}
+
+.menu-header-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-nav li a{
+    padding: 0 1rem;
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.language a {
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 991px) {
+    .language {
+        display: none;
+    }
+}
+
+
+
+
+.modal {
+    top: 20%;
+}
+
+.modal-content {
+    border: none;
+    border-radius: 30px;
+}
+
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-body {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modal-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.sin-in-control {
+    border-radius: 20px;
+}
+
+.sign-in-button {
+    background-color: orange;
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.or {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.or p {
+    display: inline;
+    font-size: 18px;
+    color: grey;
+}
+
+.line {
+    display: inline-block;
+    border-bottom: 2px solid grey;
+    width: 45%;
+    margin-bottom: 2px;
+}
+
+.sign-in-social-media {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.sign-in-social-media p{
+    color: grey;
+    display: inline;
+}
+.sign-in-each-social-media {
+    display: block;
+    width: 100%;
+    border: 1px solid grey;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}

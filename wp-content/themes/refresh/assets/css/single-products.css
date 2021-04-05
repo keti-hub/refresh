@@ -1,0 +1,111 @@
+.single-product-main {
+	padding: 50px 0;
+}
+
+.single-product-images img {
+	width: 100%;
+	max-height: 320px;
+	border-radius: 16px;
+}
+
+.single-product-gallery {
+	margin: 20px 0;
+	display: flex;
+}
+
+.each-gallery-img {
+	padding: 0 5px;
+	flex: 1;
+}
+
+.single-product-gallery img {
+	border-radius: 16px;
+	min-height: 110px;
+	object-fit: cover;
+}
+
+.product-top h1 {
+	font-size: 36px;
+    font-weight: bold;
+    display: inline;
+}
+
+.product-top span {
+	font-size: 20px;
+    font-weight: bold;
+    float: right;
+    line-height: 40px;
+}
+
+.product-top h2 {
+    width: 80%;
+    margin-top: 15px;
+    color: grey;
+}
+
+.nutritional-value {
+	margin: 25px 0;
+}
+
+.nutritional-value h3 {
+	color: grey;
+    border-bottom: 1px solid grey;
+    line-height: 30px;
+}
+
+.nutritional-value-uls {
+	display: flex;
+}
+
+.nutritional-value-ul {
+	padding-right: 25px;
+}
+
+.nutritional-value-ul li {
+	padding: 6px 0;
+   /* font-size: 18px;
+    font-weight: bold;*/
+}
+
+.nutritional-value-ul:first-child {
+	font-weight: bold;
+}
+
+.about-product h3 {
+	color: grey;
+    border-bottom: 1px solid grey;
+    line-height: 30px;
+}
+
+.about-product p {
+	padding: 6px 0;
+	color: grey;
+	border-bottom: 1px solid grey;
+}
+
+.product-price {
+	padding:20px 0;
+	border-bottom: 1px solid grey;
+}
+
+.product-price-col h2{
+	margin-bottom: 6px;
+	color: grey;
+}
+
+.product-price-col span {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.related-products {
+	padding: 50px 0;
+}
+
+.related-products h2 {
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+

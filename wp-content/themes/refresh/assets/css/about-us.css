@@ -1,0 +1,54 @@
+.aboutUs-head {
+	padding: 40px 0;
+}
+
+.divs-4 {
+    right: 20px;
+    float: right;
+}
+
+.something {
+	display: flex;
+}
+
+.each-size {
+	height: 120px;
+    width: 170px;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.something .each-size:last-child {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.something:last-child {
+	margin-left: -20px;
+}
+
+.each-size span {
+	position: absolute;
+	font-size: 20px;
+	color: white;
+}
+
+
+.orange {
+	background-color: orange;
+}
+
+.green {
+	background-color: green;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.brown {
+	background-color: brown;
+}
